@@ -1,0 +1,119 @@
+.NightPlusNight {
+    background: #f0f0f0;
+    padding: 80px 85px;
+    font-family: Helvetica Neue Regular, Helvetica Neue;
+  }
+  .NightPlusNight .container {
+    margin: 0 auto;
+    padding: 0;
+  }
+  .NightPlusNight .container .box {
+    width: 80px;
+    height: 465px;
+    color: #2eb738;
+  }
+  .NightPlusNight .container .titleName .Xline {
+    font-family: Helvetica Neue Bold, Helvetica Neue;
+    font-size: 24px;
+    color: #2eb738;
+    width: 100%;
+    height: 28px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+  }
+  .NightPlusNight .container .titleName .Xline span {
+    display: inline-block;
+    height: 14px;
+  }
+  .NightPlusNight .container .titleName .Xline .x-icon {
+    width: 14px;
+    height: 28px;
+  }
+  .NightPlusNight .container .titleName .Xline .line {
+    display: inline-block;
+    width: 280px;
+    padding: 0 21px;
+    box-sizing: border-box;
+  }
+  .NightPlusNight .container .titleName .Xline .line:after {
+    content: '';
+    display: block;
+    min-width: 100%;
+    height: 12px;
+    top: 13px;
+    border-bottom: 1px solid #2eb738;
+  }
+  .NightPlusNight .container .titleName .Xcontent {
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+  }
+  .NightPlusNight .container .titleName .Xcontent .Word {
+    font-family: PingFang TC, Medium;
+    text-align: center;
+    box-sizing: border-box;
+    width: 280px;
+  }
+  .NightPlusNight .container .titleName .Xcontent .Word .title {
+    font-size: 50px;
+    font-family: PingFang TC, Medium;
+    font-weight: 700;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    display: block;
+    width: 280px;
+    height: 78px;
+    text-align: justify;
+  }
+  .NightPlusNight .container .titleName .Xcontent .Word .word-sub {
+    font-family: Microsoft Sans Serif;
+    font-size: 20px;
+    width: 280px;
+    display: block;
+    text-align: left;
+    letter-spacing: 1px;
+  }
+  .NightPlusNight .container .card {
+    border-radius: 100px 0px 30px 0px;
+    box-shadow: 0px 3px 10px #d8d8d8;
+    box-sizing: border-box;
+    width: 350px;
+    height: 370px;
+    overflow: hidden;
+    clear: both;
+  }
+  .NightPlusNight .container .card .card-body {
+    margin: 34px 40px;
+    box-sizing: border-box;
+    clear: both;
+    position: relative;
+  }
+  .NightPlusNight .container .card .card-body .card-title {
+    font-size: 128px;
+    font-family: Helvetica Neue Extended;
+    position: absolute;
+    top: 0;
+    width: 105px;
+    height: 153px;
+    line-height: 153px;
+    float: left;
+    text-align: center;
+    text-shadow: 4px 3px 0px #f0f0f0;
+  }
+  .NightPlusNight .container .card .card-body .card-list {
+    width: 110px;
+    margin-top: 153px;
+    margin-left: 6px;
+  }
+  .NightPlusNight .container .card .card-body .card-list.right {
+    margin-top: 5px;
+  }
+  .NightPlusNight .container .card .card-body .card-text {
+    font-size: 26px;
+    width: 105px;
+    height: 33px;
+    display: inline-block;
+  }
+  
